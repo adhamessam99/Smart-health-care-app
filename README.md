@@ -10,8 +10,6 @@
   - [Installation](#installation)
   - [Configuration](#configuration)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 The Smart Healthcare Mobile App is a Flutter application designed to provide real-time monitoring of sensor data from ThingSpeak, facilitate scheduling of appointments for patients and doctors, and integrate with Firebase for authentication and data storage.
